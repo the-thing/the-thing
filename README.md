@@ -12,7 +12,7 @@
 
 <div align="center">
     <p style="color:black; font-size:16px; max-width:600px; text-align:justify;">
-        I write Core Java and care deeply about performance.
+        I write Core Java with an obsession for correctness, clarity and performance.
         You'll find my fingerprints on <a href="https://github.com/quickfix-j/quickfixj">QuickFIX/J</a> (FIX protocol messaging), <a href="https://github.com/hazelcast/hazelcast">Hazelcast</a> (real-time data), <a href="https://github.com/dropwizard/dropwizard">Dropwizard Metrics</a> & <a href="https://github.com/micrometer-metrics/micrometer">Micrometer</a> (observability), and <a href="https://github.com/apache/mina">Apache MINA</a> (networking) and many more!
         Also a fan of retro tech, old-school algorithms, and the quirky corners of computing history.
     </p>
