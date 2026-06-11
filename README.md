@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=the-thing&show=reviews,prs_merged&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d" alt="GitHub Statistics"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=the-thing&rank_icon=github&show=reviews,prs_merged&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d" alt="GitHub Statistics"/>
 </div>
 
 ---
