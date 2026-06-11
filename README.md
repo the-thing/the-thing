@@ -8,6 +8,16 @@
 
 ---
 
+<h2 align="center" style="color:ffffff;">💾 About Me</h2>
+
+<div align="center">
+    <p style="color:black; font-size:16px; max-width:600px; text-align:justify;">
+        I write Core Java and care deeply about performance.
+        You'll find my fingerprints on <a href="https://github.com/quickfix-j/quickfixj">QuickFIX/J</a> (FIX protocol messaging), <a href="https://github.com/hazelcast/hazelcast">Hazelcast</a> (real-time data), <a href="https://github.com/dropwizard/dropwizard">Dropwizard Metrics</a> & <a href="https://github.com/micrometer-metrics/micrometer">Micrometer</a> (observability), and <a href="https://github.com/apache/mina">Apache MINA</a> (networking) and many more!
+        Also a fan of retro tech, old-school algorithms, and the quirky corners of computing history.
+    </p>
+</div>
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=the-thing&rank_icon=github&show=reviews,prs_merged&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d" alt="GitHub Statistics"/>
 </div>
