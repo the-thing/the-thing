@@ -6,8 +6,6 @@
     <img src="https://komarev.com/ghpvc/?username=the-thing&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views" alt="Profile Views"/>
 </div>
 
----
-
 <h2 align="center" style="color:ffffff;">💾 About Me</h2>
 
 <div align="center">
@@ -21,8 +19,3 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=the-thing&rank_icon=github&show=reviews,prs_merged&hide_border=true&border_radius=0&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d" alt="GitHub Statistics"/>
 </div>
-
----
-
-
-
