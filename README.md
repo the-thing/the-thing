@@ -22,11 +22,19 @@
 
 <h2 align="center" style="color:ffffff;">💾 Projects</h2>
 
+<div align="center">
+    <p style="color:black; font-size:16px; max-width:700px; text-align:justify;">
+            A collection built from passion, curiosity, and constant experimentation.
+            I like exploring ideas, trying unusual approaches, and learning by building.
+    </p>
+</div>
+
 <p align="center">
   <a href="https://github.com/the-thing/chipamp">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=the-thing&repo=the-thing/chipamp&show_owner=true&hide_border=true&border_radius=0&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d" alt="GitHub Stats" width="400" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/the-thing/zam">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=the-thing&repo=the-thing/zam&show_owner=true&hide_border=true&border_radius=0&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d" alt="GitHub Stats" width="400" />
