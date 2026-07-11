@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=the-thing&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-<h2 align="center" style="color:ffffff;">💾 About Me</h2>
+<h2 align="center" style="color:ffffff;">👨 About Me</h2>
 
 <div align="center">
     <p style="color:black; font-size:16px; max-width:600px; text-align:justify;">
@@ -18,4 +18,15 @@
 
 <p align="center">
     <img src="./profile/stats.svg"/>
+</p>
+
+<h2 align="center" style="color:ffffff;">💾 Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/the-thing/chipamp">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=the-thing&repo=the-thing/chipamp&show_owner=true&theme=default" alt="GitHub Stats" height="150" />
+  </a>
+  <a href="https://github.com/the-thing/zam">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=the-thing&repo=the-thing/zam&show_owner=true&theme=default" alt="GitHub Stats" height="150" />
+  </a>
 </p>
