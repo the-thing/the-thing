@@ -30,13 +30,11 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/the-thing/chipamp">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=the-thing&repo=the-thing/chipamp&show_owner=true&hide_border=true&border_radius=0&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d" alt="GitHub Stats" width="400" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/the-thing/zam">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=the-thing&repo=the-thing/zam&show_owner=true&hide_border=true&border_radius=0&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d" alt="GitHub Stats" width="400" />
-  </a>
+    <a href="https://github.com/the-thing/chipamp">
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=the-thing&repo=chipamp&show_owner=true&description_lines_count=2&hide_border=true&border_radius=0&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d" alt="GitHub Stats" width="400" />
+    </a>
+    <a href="https://github.com/the-thing/zam">
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=the-thing&repo=zam&show_owner=true&description_lines_count=2&hide_border=true&border_radius=0&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d" alt="GitHub Stats" width="400" />
+    </a>
+    <br/>
 </p>
