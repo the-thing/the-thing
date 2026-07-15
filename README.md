@@ -30,7 +30,7 @@
 </div>
 
 <p align="center">
-    <img src="./profile/chipamp-pin.svg"/>
-    <img src="./profile/zam-pin.svg"/>
+    <img src="./profile/chipamp-pin.svg" alt="Chipamp Stats"/>
+    <img src="./profile/zam-pin.svg" alt="Zam Stats"/>
     <br/>
 </p>
