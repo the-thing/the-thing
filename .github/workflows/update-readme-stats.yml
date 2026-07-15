@@ -31,6 +31,22 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate Chipamp pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=chipamp&show_owner=true&description_lines_count=2&hide_border=true&border_radius=0&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d
+          path: profile/chipamp-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Zam pin card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=zam&show_owner=true&description_lines_count=2&hide_border=true&border_radius=0&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d
+          path: profile/zam-pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
