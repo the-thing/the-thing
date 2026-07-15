@@ -30,7 +30,11 @@
 </div>
 
 <p align="center">
-    <img src="./profile/chipamp-pin.svg" alt="Chipamp Stats"/>
-    <img src="./profile/zam-pin.svg" alt="Zam Stats"/>
+    <a href="https://github.com/the-thing/chipamp">
+        <img src="./profile/chipamp-pin.svg" alt="Chipamp Project"/>
+    </a>
+    <a href="https://github.com/the-thing/zam">
+        <img src="./profile/zam-pin.svg" alt="Zam Project"/>
+    </a>
     <br/>
 </p>
