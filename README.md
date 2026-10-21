@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://komarev.com/ghpvc/?username=the-thing"><img src="https://komarev.com/ghpvc/?username=the-thing&style=for-the-badge&color=00bfff&labelColor=0d1117&label=Profile+Views" alt="Profile Views"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/made by-human-c?style=for-the-badge&labelColor=555555&color=00bfff&query=is%3Apr%20author%3Athe-thing&sort:created-desc" /></a>
+    <a href="https://github.com/the-thing"><img src="https://img.shields.io/badge/made by-human-c?style=for-the-badge&labelColor=555555&color=00bfff&query=is%3Apr%20author%3Athe-thing&sort:created-desc" /></a>
 </p>
 
 <h2 align="center" style="color:ffffff;">👨 About Me</h2>
