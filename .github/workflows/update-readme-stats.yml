@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&rank_icon=github&show=reviews,prs_merged&hide_border=true&border_radius=0&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d
+          options: username=${{ github.repository_owner }}&custom_title=the-thing%27s%20statistics&rank_icon=github&show=reviews,prs_merged&hide_border=true&border_radius=0&title_color=ffffff&text_color=ffffff&bg_color=0,00bfff,185a9d
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
